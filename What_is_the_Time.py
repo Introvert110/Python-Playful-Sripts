@@ -1,3 +1,5 @@
+#This is script will tell you the time and wish you according to the time.
+
 import time
 t = time.strftime('%H:%M:%S')
 hour = int(time.strftime('%H'))
